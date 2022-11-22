@@ -25,6 +25,14 @@ For further analysis I would start to look at 2019 and possibly look into 2016 t
 ### Refactoring the code
 Explain difference
 
+**Original Code Performance**
+
+
+
+**Refactored Code Performance**
+
+
+
 ### Run-time Comparison
 As seen in the pop up message above in the Stock Performance section, refactoring the code was able to generate a quicker return time which helps Steve conduct his analysis faster. The speed of this report increased by over 500% for both years. The original code’s average return time was 1.13 seconds while the refactored code averaged 0.21 seconds. The goal when refactoring the code is to keep the run-time minimized as more values are added to the analysis.
 
