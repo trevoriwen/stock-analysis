@@ -14,10 +14,8 @@ Steve’s parents did a great job investing in DAQO in 2017 with the stock provi
 
 For further analysis I would start to look at 2019 and possibly look into 2016 to understand some of the volatility of the market and DAQO. I would also suggest looking at other characteristics of ENPH to better understand why their growth didn’t fluctuate almost at all through 2017 and 2018. They were clearly the best stock across the 2 years, providing the second highest return in 2017 and the highest in 2018. The market also followed this stock in 2018 with it being the highest traded stock in 2018.
 
-![2017 Refactored Pop-Up](Resources/VBA_Challenge_2017_original.png)
-![2018 Refactored Pop-Up](Resources/VBA_Challenge_2018_original.png)
-![2017 Refactored Pop-Up](Resources/VBA_Challenge_2017.png)
-![2018 Refactored Pop-Up](Resources/VBA_Challenge_2018.png)
+'![Test](path)
+
 
 ### Refactoring the code
 Explain difference
