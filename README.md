@@ -3,7 +3,7 @@
 ## Overview of Project
 
 ### Purpose
-Explain Purpose
+Steve asked us to help him analyze a group of green stocks to compare to understand which stocks are worth investing in. To complete this task efficiently, I used VBA Scripting to summarize the Total Daily Volume and Percent Return for all of the green stocks in the data set for a given year value. In this data we’re able to analyze 2017 and 2018. Steve needs to be able to run the analysis quickly in order to spend more time comparing results and making decisions. For this, we’re going to refactor the original code created to help speed up the run-time on this analysis.
 
 ## Results
 
