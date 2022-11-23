@@ -23,7 +23,7 @@ For further analysis I would start to look at 2019 and possibly look into 2016 t
 ![Stock Performance - 2018](Resources/Stock_Performance_2018.png)
 
 ### Refactoring the code
-Explain difference
+When refactoring the code we were able to create 3 output arrays that match the tickers array using the tickerIndex variable. Then we wrote a nested For Loop to run through the data and set the tickerVolume, tickerStartingPrice, and tickerEndingPrice for the given tickerIndex. Lastly, we used a For Loop to output the Ticker, Total Daily Volume, and Return for either 2017 or 2018’s yearValue from the InputBox.
 
 **Original Code Performance**
 
@@ -189,7 +189,7 @@ Explain difference
       Cells(3, 3).Value = "Return"
 
       'Initialize array of all tickers
-      Dim tickers(12) As String
+      Dim tickers(11) As String
     
       tickers(0) = "AY"
       tickers(1) = "CSIQ"
@@ -215,9 +215,9 @@ Explain difference
       tickerIndex = 0
 
       '1b) Create three output arrays
-      Dim tickerVolumes(12) As Long
-      Dim tickerStartingPrices(12) As Single
-      Dim tickerEndingPrices(12) As Single
+      Dim tickerVolumes(11) As Long
+      Dim tickerStartingPrices(11) As Single
+      Dim tickerEndingPrices(11) As Single
     
       '2a) Create a for loop to initialize the tickerVolumes to zero.
       For i = 0 To 11
